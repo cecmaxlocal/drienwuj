@@ -4,7 +4,7 @@ LDFLAGS =  main.cpp
 
 SRC = 
 OBJ = $(SRC:.cc=.o)
-EXEC = swawyecs
+EXEC = drienwuj
 
 all: $(EXEC)
 
