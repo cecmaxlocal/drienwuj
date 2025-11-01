@@ -1,0 +1,22 @@
+Google licenses its products and services in different ways depending on the context:
+
+- Google Workspace and other Google services require user-based licenses, meaning each user who accesses services like Gmail, Drive, or Calendar must have a license assigned to them. Licenses can be assigned individually or in bulk through the Google Admin console or tools like Google Cloud Directory Sync.[1][2]
+  
+- Google Cloud software licenses are usage agreements between users and Google, typically tied to specific projects and software instances. Licenses are required to use licensed software on Google Cloud Compute Engine.[3]
+
+- For open-source code contributions to Google, contributors must sign a Contributor License Agreement (CLA) that grants Google rights to use, modify, and distribute the contributed code. Most publicly available Google code follows Apache 2.0 licensing unless otherwise noted.[4][5][6]
+
+- Google’s own open source projects may use a variety of licenses categorized by their impact on Google’s build process, including GPL, LGPL, Creative Commons, and other open licenses.[7]
+
+Overall, Google licenses encompass proprietary user licenses for commercial products, cloud computing usage licenses, and open source licenses for developer code and contributions.
+
+[1](https://support.google.com/a/answer/10148746?hl=en)
+[2](https://support.google.com/a/answer/6309862?hl=en)
+[3](https://docs.cloud.google.com/compute/docs/licenses/about)
+[4](https://cla.developers.google.com/about/google-corporate)
+[5](https://developers.google.com/open-source/devplat?hl=pt-br)
+[6](https://developers.google.com/open-source/devplat)
+[7](https://opensource.google/documentation/reference/thirdparty/licenses)
+[8](https://developers.google.com/workspace/admin/licensing/v1/how-tos/products)
+[9](https://workspace.google.com/pricing)
+[10](https://cloud.google.com/compute/docs/reference/rest/v1/licenses/list)

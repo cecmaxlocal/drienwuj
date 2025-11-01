@@ -1,0 +1,24 @@
+Dell machines typically come with various types of licenses depending on the product and software involved. Key license types include:
+
+- Subscription licenses for software like Dell RecoverPoint for Virtual Machines, which have start and end dates and alert users before expiration.
+- Evaluation and extension licenses that offer trial periods, often 30 days, which can sometimes be extended.
+- Perpetual and concurrent licenses depending on usage models.
+- Specific licenses for management tools like Dell iDRAC (Integrated Dell Remote Access Controller) and OpenManage software, which come in different tiers (Enterprise, Datacenter, Advanced, etc.).
+- Licensing for server products may include per-processor, per-seat, or per-server licenses, often tied to Client Access Licenses (CALs).
+
+Dell also offers centralized license management tools such as Dell License Manager for deploying and reporting licenses across devices and software components.
+
+For managing all licenses and software downloads, Dell provides the Dell Digital Locker portal, where users can register, activate, and manage licenses and software associated with their Dell machines.
+
+This breadth of licensing options addresses hardware, firmware, and software components for Dell machines and server environments.[1][2][3][4]
+
+[1](https://www.dell.com/support/contents/en-us/videos/videoplayer/dell-recoverpoint-for-virtual-machines-licensing-types-conversion-and-how-to-add/6342050933112)
+[2](https://www.dell.com/support/manuals/en-us/enterprise-copy-data-management/pp-dm_19.10_licensing_guide/license-types?guid=guid-4efe8856-1c6c-4733-badb-d3560262e50f&lang=en-us)
+[3](https://www.delltechnologies.com/asset/pl-pl/products/servers/industry-market/openmanage-portfolio-software-licensing-guide.pdf)
+[4](https://www.dell.com/support/home/pt-br?app=licenses)
+[5](https://www.dell.com/support/manuals/en-us/integrated-dell-remote-access-cntrllr-7-v1.50.50/idrac7ug1.50.50-v1/types-of-licenses?guid=guid-7c396fbe-c1d9-42ee-991c-3949050ce281&lang=en-us)
+[6](https://www.youtube.com/watch?v=ishld5qG8Tw)
+[7](https://www.youtube.com/watch?v=iVWnqqci0BM)
+[8](https://www.delltechnologies.com/asset/en-us/products/multi-product/educational-training/docu97129.pdf)
+[9](https://www.dell.com/learn/ae/en/aedhs1/shared-content~data-sheets~en/documents~vsl-glossary.pdf)
+[10](https://licensing.emc.com)

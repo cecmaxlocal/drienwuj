@@ -1,0 +1,20 @@
+Open source licenses are legal agreements that allow software to be freely used, modified, and shared by anyone, while setting certain conditions to preserve the openness and provenance of the software. There are two main categories of open source licenses:
+
+1. Permissive Licenses: These impose minimal restrictions on how the software can be used. They typically require attribution to the original authors but allow integration into both open source and proprietary software. Examples include the MIT License, Apache License 2.0, and BSD License family.
+
+2. Copyleft Licenses: These ensure that derivative works remain open source by requiring any modifications or extensions to be distributed under the same license terms. This helps maintain software freedom and prevents proprietary forks. Examples include the GNU General Public License (GPL), Lesser GPL (LGPL), Mozilla Public License (MPL), and GNU Affero General Public License (AGPL).
+
+Open source licenses define legal permissions for use, modification, and distribution, and may also include clauses on patent rights, attribution, liability disclaimers, and source code availability upon distribution. The choice of license affects how the software can be used commercially and in collaborative development.[1][2][3][4][5][6]
+
+In summary, an open source license allows anyone to use, modify, and share software freely under specified conditions, broadly classified into permissive licenses with few restrictions and copyleft licenses that require derivative works to also be open source.
+
+[1](https://en.wikipedia.org/wiki/Open-source_license)
+[2](https://fossa.com/learn/open-source-licenses/)
+[3](https://choosealicense.com/licenses/)
+[4](https://www.mend.io/blog/top-open-source-licenses-explained/)
+[5](https://www.blackduck.com/glossary/what-are-open-source-licenses.html)
+[6](https://opensource.org/licenses)
+[7](https://choosealicense.com)
+[8](https://docs.github.com/articles/licensing-a-repository)
+[9](https://opensource.org/license/mit)
+[10](https://www.reddit.com/r/opensource/comments/rqq53c/how_do_you_decide_which_open_source_license_to_use/)
